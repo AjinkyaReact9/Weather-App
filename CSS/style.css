@@ -1,0 +1,69 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/023/133/298/small/dark-blue-texture-with-cloudy-sky-vector.jpg');
+}
+
+.body1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inputcity{
+    border-radius: 9px;
+    border-color: currentColor;
+    padding: 12px;
+    color: darkblue;
+    font-size: 21px;
+    FONT-FAMILY: serif;
+    width: 130px;
+    text-align: start;
+    outline: none;
+}
+
+.search{
+    padding: 15px;
+    width: 85px;
+    height: 50px;
+    font-size: 16px;
+    font-family: serif;
+    background-color: gainsboro;
+    border-radius: 20px;
+    border-color: ivory;
+}
+
+.mob{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 100px;
+    width: 50px;
+    background-image: url('https://cdn5.f-cdn.com/contestentries/329593/18088126/5699feb841990_thumb900.jpg');
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 35px;
+    left: 0px;
+    width: 781px;
+    height: 472px;
+    background-size: cover;
+    border: none;
+    background-repeat: no-repeat;
+}
+
+.btn{
+    padding: 9px;
+    width: 75px;
+    height: 40px;
+    border-radius: 14px;
+    background-color: aliceblue;
+    border: none;
+    position: absolute;
+    top: 20px;  
+    right: 40px;
+    color: darkblue;
+    font-family: serif;
+    font-size: inherit;
+}
